@@ -270,3 +270,27 @@ An ECG sample is passed through the Autoencoder and reconstructed. The reconstru
 ### Demo Output
 
 ![ECG Anomaly Detection Demo](Results/ECG_Anomaly_Detection_demo.png)
+
+## 📊 Results & Visualizations
+
+### Normal ECG Signal
+
+![Normal ECG](Results/normal_ecg.png)
+
+### Anomalous ECG Signal
+
+![Anomalous ECG](Results/anomalous_ecg.png)
+
+### Training and Validation Loss
+
+![Training and Validation Loss](Results/training_validation_loss.png)
+
+### ECG Reconstruction
+
+![Normal ECG Reconstruction](Results/normal_reconstruction.png)
+
+![Anomalous ECG Reconstruction](Results/anomalous_reconstruction.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](Results/confusion_matrix.png)
