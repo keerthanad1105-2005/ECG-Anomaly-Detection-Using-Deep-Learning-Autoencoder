@@ -260,3 +260,13 @@ This project is developed for **educational and research purposes**. It is not i
 ---
 
 ### ⭐ If you find this project useful, consider giving it a star!
+
+## 🧪 ECG Anomaly Detection Demo
+
+The project includes a notebook-based demonstration of ECG anomaly detection using a trained Deep Learning Autoencoder.
+
+An ECG sample is passed through the Autoencoder and reconstructed. The reconstruction error is then compared with the calculated anomaly threshold to determine whether the ECG sample is classified as **Normal** or **Anomalous**.
+
+### Demo Output
+
+![ECG Anomaly Detection Demo](Results/ECG_Anomaly_Detection_demo.png)
